@@ -21,6 +21,3 @@ def get_tweet_sentiment(tweet):
         return 'neutral'
     else:
         return 'negative'
-
-res = get_tweet_sentiment("I am sooo happy!")
-print(res)

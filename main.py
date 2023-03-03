@@ -33,3 +33,9 @@ async def audience(twitter_handle):
 async def sentiment(twitter_handle):
     res = x(twitter_handle)
     return res
+
+# - /textsentiment/<tweet> : return negative or positive
+@app.get("/textsentiment/{tweet}")
+async def text_sentiment(tweet):
+    res = get_tweet_sentiment(tweet)
+    return res
