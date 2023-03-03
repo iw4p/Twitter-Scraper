@@ -68,19 +68,13 @@ def parse(page_source, tweets: List):
 
 def main(args:Dict):
     output_file = args["output"]
+    print(output_file)
     url = args["url"]
     print("Starting - loading URL")
-    # create a new Firefox session
     driver = webdriver.Chrome()
     driver.implicitly_wait(30)
     driver.get(url)
     print("Now waiting for some time....")
-    # try:
-    #     replies_present = EC.presence_of_element_located((By.TAG_NAME, 'article'))
-    #     WebDriverWait(driver, 10).until(replies_present)
-    # except TimeoutException:
-    #     print("Timeoot!")
-    #     exit()
 
     sleep(3)
     tweets = []

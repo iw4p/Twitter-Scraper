@@ -3,44 +3,26 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
 
+from typing import List, Dict
+from dataclasses import dataclass
 from time import sleep
 import time
+import re
+import json
 
-target_tweet='https://twitter.com/BarackObama/status/1623489922438156288'
+@dataclass
+class Tweet:
+    date: str
+    author_name_handle: str
+    author_id_handle: str
+    replying_to: str
+    text: str
 
-# Twitter Login 
-twitter_usr="@your_twitter_username"
-twitter_pass='password'
-
-def twitter_login(driver, twitter_usr=str, twitter_pass=str):
-    driver.get('https://twitter.com/i/flow/login')
-    sleep(6)
-    user = driver.find_element(by=By.XPATH, value='//*[@autocomplete="username"]')
-    sleep(1)
-    user.send_keys(twitter_usr)
-    sleep(1)
-    next_btn = driver.find_element(by=By.XPATH, value='/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div/div[6]/div')
-    next_btn.click()
-    sleep(4)
-    psswd_in = driver.find_element(by=By.XPATH, value='//*[@autocomplete="current-password"]')
-    psswd_in.send_keys(twitter_pass)
-    sleep(2)
-    login_btn = driver.find_element(by=By.XPATH, value='//html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div[1]/div/div/div')
-    login_btn.click()
-    sleep(3)
-    print('Login Successful')
-    return driver
-
-
-# driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
+target_tweet='https://twitter.com/BrianMteleSUR/status/1625111883626823681'
 driver = webdriver.Chrome()
-
-# twitter_login(driver, twitter_usr=twitter_usr, twitter_pass=twitter_pass)
-
 tweets = []
 
 driver.get(target_tweet)
-
 sleep(6)
 
 MAX_SCROLLS=5
@@ -49,7 +31,7 @@ for _ in range(MAX_SCROLLS):
     driver.execute_script("arguments[0].scrollIntoView(true)", last)
     time.sleep(.2)
     all_tweets = driver.find_elements(By.XPATH, '//div[@data-testid]//article[@data-testid="tweet"]')
-    for item in all_tweets[1:]: # skip first tweet because it is BBC tweet
+    for item in all_tweets[1:]:
  
             try:
                 date = item.find_element(By.XPATH, './/time').text
@@ -62,17 +44,31 @@ for _ in range(MAX_SCROLLS):
                 text = '[empty]'
 
             try:
-                author_handle = item.find_element(By.XPATH, './/div[@data-testid="User-Names"]').text
-                
+                author_name_handle = item.find_element(By.XPATH, './/div[@data-testid="User-Names"]/div[2]/div/div/a/div/span').text
             except:
-                author_handle = '[empty]'
+                author_name_handle = '[empty]'
+
+            try:
+                author_id_handle = item.find_element(By.XPATH, './/div[@data-testid="User-Names"]//div//span//span').text
+            except:
+                author_id_handle = '[empty]'
 
             try:
                 replying_to = item.find_element(By.XPATH, './/div[contains(text(), "Replying to")]//a').text
             except:
                 replying_to = '[empty]'
             
-            tweets.append([date, author_handle, replying_to, text])
+            curr_tweet = Tweet(
+                date=date,
+                author_name_handle=author_name_handle,
+                author_id_handle=author_id_handle,
+                replying_to=replying_to,
+                text=text,
+            )
+
+            if curr_tweet is not None:
+                tweets.append(curr_tweet)
+
             time.sleep(.2)
             
 print(f'Found {len(tweets)} replies.')
@@ -91,7 +87,7 @@ for i in range(20):
             driver.execute_script("arguments[0].scrollIntoView(true)", last)
             time.sleep(.2)
             all_tweets = driver.find_elements(By.XPATH, '//div[@data-testid]//article[@data-testid="tweet"]')
-            for item in all_tweets: # skip first tweet because it is BBC tweet
+            for item in all_tweets:
 
                     try:
                         date = item.find_element(By.XPATH, './/time').text
@@ -104,11 +100,30 @@ for i in range(20):
                         text = None
 
                     try:
+                        author_name_handle = item.find_element(By.XPATH, './/div[@data-testid="User-Names"]/div[2]/div/div/a/div/span').text
+                    except:
+                        author_name_handle = '[empty]'
+
+                    try:
+                        author_id_handle = item.find_element(By.XPATH, './/div[@data-testid="User-Names"]//div//span//span').text
+                    except:
+                        author_id_handle = '[empty]'
+
+                    try:
                         replying_to = item.find_element(By.XPATH, './/div[contains(text(), "Replying to")]//a').text
                     except:
                         replying_to = None
 
-                    tweets.append([date, replying_to, text])
+                    curr_tweet = Tweet(
+                        date=date,
+                        author_name_handle=author_name_handle,
+                        author_id_handle=author_id_handle,
+                        replying_to=replying_to,
+                        text=text,
+                    )
+                    if curr_tweet is not None:
+                        tweets.append(curr_tweet)
+
                     time.sleep(.2)
 
         print(f'Found {len(tweets)} replies totally.')
@@ -116,9 +131,25 @@ for i in range(20):
     except:
         continue
 
-# Example of dataframe construction
-import pandas as pd
+print('tweets')
+print(tweets)
+outdict = [d.__dict__ for d in tweets]
+print('outdict')
+print(outdict)
+unique_tweets = list({each["text"]: each for each in outdict}.values())
 
-df = pd.DataFrame(tweets, columns=['Date of Tweet', 'Author', 'Replying to', 'Tweet'])
+for d in unique_tweets:
+    d["author_name_handle"] = d["author_name_handle"]
+    d["date"] = d["date"]
+    d["text"] = d["text"]
+    d["author_id_handle"] = re.sub("[/@]", "", d["author_id_handle"])
+    d["replying_to"] = d["replying_to"]
+    # d["replying_to"] = d["replying_to"].replace("@" + d["author_name_handle"], "")
 
-print(df)
+print(json.dumps(unique_tweets, indent=4, ensure_ascii=False))
+print(f"FOUND {len(unique_tweets)} TWEETS")
+
+output_file = 'result.json'
+
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(unique_tweets, f, ensure_ascii=False, indent=4)
