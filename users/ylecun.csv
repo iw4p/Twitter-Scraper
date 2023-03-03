@@ -1,0 +1,596 @@
+tweet_id,username,name,profile_picture,replies,retweets,likes,is_retweet,posted_time,content,hashtags,mentions,images,videos,tweet_url,link
+1631375091287363585,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,6,False,2023-03-02T19:25:05+00:00,Protections against Kremlin-sponsored troll farms have been in place on FB for about 6 years.,[],[],[],[],https://twitter.com/ylecun/status/1631375091287363585,
+1631374495859744768,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,52,172,1622,False,2023-03-02T19:22:43+00:00,"Funny exchange after a public lecture:
+Lady: I'm using ChatGPT to produce horoscopes.
+Me: perfect application for a writing assistant that makes stuff up.
+Lady: hahaha, I agree!",[],[],[],[],https://twitter.com/ylecun/status/1631374495859744768,
+1631070863838568453,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,2,64,False,2023-03-01T23:16:12+00:00,"I drink one glass of good (i.e. French) wine with dinner.
+Occasionally more than one.
+One Cognac, Armagnac, or Whisky per week.",[],[],[],[],https://twitter.com/ylecun/status/1631070863838568453,
+1630935823632965634,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,2,72,False,2023-03-01T14:19:36+00:00,"The existence of these ""highly successful AI groups"" is precisely what makes the creation of this new product group possible.
+They are involved in it.",[],[],[],[],https://twitter.com/ylecun/status/1630935823632965634,
+1630681387148910593,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,3,False,2023-02-28T21:28:33+00:00,"It's the other way around: tech companies are attracted by places with high concentration of talents.
+Talents are produced by top educational and research institutions.
+Then the ecosystem feeds on itself.",[],[],[],[],https://twitter.com/ylecun/status/1630681387148910593,
+1630680411117584384,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,34,59,525,False,2023-02-28T21:24:41+00:00,Discussion between colleagues == bidirectional human prompt engineering.,[],[],[],[],https://twitter.com/ylecun/status/1630680411117584384,
+1630615708638887944,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,16,False,2023-02-28T17:07:34+00:00,Lack of understanding of the world by the LLM.,[],[],[],[],https://twitter.com/ylecun/status/1630615708638887944,
+1630615159025680393,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-28T17:05:23+00:00,Clearly.,[],[],[],[],https://twitter.com/ylecun/status/1630615159025680393,
+1630615094944997376,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,24,False,2023-02-28T17:05:08+00:00,"Human Feedback will certainly improve the reliability on common questions.
+But the distribution of questions has a very, very long tail.
+So HF alone will mitigate but not fix the problems.",[],[],[],[],https://twitter.com/ylecun/status/1630615094944997376,
+1630611290329686016,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,35,50,347,True,2023-02-28T16:50:01+00:00,"Yes, the need for prompt engineering is a sign of lack of understanding.
+No, scaling alone will not fix that.",[],[],[],[],https://twitter.com/ylecun/status/1630611290329686016,
+1630610243636936706,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,19,False,2023-02-28T16:45:52+00:00,"Meta has a thing like that in-house called Rosetta.
+I think it's not open source because it's used for content moderation and openness facilitates circumvention.",[],[],[],[],https://twitter.com/ylecun/status/1630610243636936706,https://t.co/cJKMhOdye0
+1630202129276346369,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,7,23,143,True,2023-02-27T13:44:09+00:00,"Entities that throw our deepest thoughts back at us: a common theme in fiction, from Shakespeare's The Tempest, to the 1950's space opera Forbidden Planet, Tarkovsky's 1972 film Solaris, and several others after that.",[],[],[],[],https://twitter.com/ylecun/status/1630202129276346369,
+1630201589888876547,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,5,29,False,2023-02-27T13:42:01+00:00,"Entities that throw our deepest thoughts back at us: a common theme in fiction, from Shakespeare's The Tempest, to the 1950's space opera Forbidden Planet, and Tarkovsky's 1972 film Solaris.",[],[],[],[],https://twitter.com/ylecun/status/1630201589888876547,
+1629890343125540864,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,7,False,2023-02-26T17:05:14+00:00,"@lxbrun
+ former FAIR-Paris engineering director and cofounder of Nabla.",[],['lxbrun'],[],[],https://twitter.com/ylecun/status/1629890343125540864,
+1629889830468431874,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-26T17:03:12+00:00,"I don't know who this Yann LeCunn is, but perhaps he and Gary Marcus got married since the last time the ChatGPT training set was collected.",[],[],[],[],https://twitter.com/ylecun/status/1629889830468431874,
+1629865145999536128,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-26T15:25:06+00:00,"Open-sourcing is very much Meta's DNA.
+But there are few things that large companies care more about than bad press and attack on their reputation.",[],[],[],[],https://twitter.com/ylecun/status/1629865145999536128,
+1629864655114891264,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,4,False,2023-02-26T15:23:09+00:00,"I know, I know.
+But one shouldn't waste a bad joke by letting it stand without responding with a teaching moment.",[],[],[],[],https://twitter.com/ylecun/status/1629864655114891264,
+1629862586064748544,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,6,1,74,False,2023-02-26T15:14:56+00:00,"Well, actually, in most countries at the time, books could not be published without the king's approval.
+So there was a form of RLHF: Royal Legislative Human Feedback.",[],[],[],[],https://twitter.com/ylecun/status/1629862586064748544,
+1629861373801910272,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,17,False,2023-02-26T15:10:07+00:00,"Haha!
+We already knew you were on ChatGPT for its fantastic reasoning abilities.",[],[],[],[],https://twitter.com/ylecun/status/1629861373801910272,
+1629847820067823620,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,3,44,False,2023-02-26T14:16:16+00:00,"FAIR-Paris has brought French scientists from the US back to Paris, such as 
+@AntoineBordes
+ , 
+@armandjoulin
+ , 
+@syhw
+ , 
+@EXGRV
+ and others.
+It also attracted scientists from all over Europe to Paris, and gave the opportunity to many young French scientists to stay in France.",[],"['AntoineBordes', 'armandjoulin', 'syhw', 'EXGRV']",[],[],https://twitter.com/ylecun/status/1629847820067823620,
+1629845738170597376,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,9,12,96,False,2023-02-26T14:07:59+00:00,"- A number of them went through École Polytechnique and ENS, but not all.
+- A big chunk went through the MVA (Master Vision Apprentissage at ENS Cachan).
+- And a bunch of them did are (or are still doing) their PhD as resident students at FAIR-Paris under the CIFRE system.",[],[],[],[],https://twitter.com/ylecun/status/1629845738170597376,
+1629843577139351552,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,15,False,2023-02-26T13:59:24+00:00,"No GPUs in 1988.
+We ran our OCR demos on DSP cards.
+And we eventually bought a large parallel machine from Intel (i860 based IIRC). But the software sucked and it became an expensive doorstop.",[],[],[],[],https://twitter.com/ylecun/status/1629843577139351552,
+1629842461211205632,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,15,30,392,True,2023-02-26T13:54:58+00:00,Almost all the members of the LLaMA team are located at FAIR-Paris.,[],[],[],[],https://twitter.com/ylecun/status/1629842461211205632,
+1629839621629571073,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,3,62,False,2023-02-26T13:43:41+00:00,"Indeed.
+But then again, if people had not listened so much to the critics of nuclear energy in the 1970s, we may not have as much of a climate change problem to deal with.",[],[],[],[],https://twitter.com/ylecun/status/1629839621629571073,
+1629666236383502336,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,11,10,258,False,2023-02-26T02:14:43+00:00,"When I asked my boss what the story was, he said:
+""At Bell Labs, you don't get famous by saving money!""",[],[],[],[],https://twitter.com/ylecun/status/1629666236383502336,
+1629665796145180672,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,8,13,402,True,2023-02-26T02:12:58+00:00,"During my postdoc at U of Toronto in 87/88 the CS dept received a new Sun4 shared by students and faculty.
+Before I moved to Bell Labs, my future boss asked me what computer I wanted. I said ""the Sun-4 is great""
+When I arrived, I had a Sun4 JUST FOR ME!
+LeNet was trained on it.",[],[],['https://pbs.twimg.com/media/FpxMG-ZaIAATWES?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1629665796145180672,
+1629573558102835200,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,48,35,263,False,2023-02-25T20:06:26+00:00,"Because last time we made an LLM available to everyone (Galactica, designed to help scientists write scientific papers), people threw vitriol at our face and told us this was going to destroy the fabric of society.",[],[],[],[],https://twitter.com/ylecun/status/1629573558102835200,
+1629563888864821249,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,5,False,2023-02-25T19:28:01+00:00,"Ian GoodDawg invented the G Adversarial Note, but MC S claims he invented all A-G Adversarial Chords in 1991.",[],[],[],[],https://twitter.com/ylecun/status/1629563888864821249,
+1629561606240628740,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,3,False,2023-02-25T19:18:57+00:00,It would never get through peer review.,[],[],[],[],https://twitter.com/ylecun/status/1629561606240628740,
+1629488660071448578,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,6,42,False,2023-02-25T14:29:05+00:00,"As I have said numerous times over the last few months, hallucinations are an inevitable property of auto-regressive LLMs.
+That's not a major problem if you use them as writing aids or for entertainment purposes.
+Making them factual and controllable will require a major redesign.",[],[],[],[],https://twitter.com/ylecun/status/1629488660071448578,
+1629485640025796616,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,14,False,2023-02-25T14:17:05+00:00,The 13B model runs on a single high-end GPU.,[],[],[],[],https://twitter.com/ylecun/status/1629485640025796616,
+1629485431975714819,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-25T14:16:16+00:00,The 13B model can run on a single high-end GPU.,[],[],[],[],https://twitter.com/ylecun/status/1629485431975714819,
+1629467508720779265,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,31,33,234,True,2023-02-25T13:05:02+00:00,"- People will learn to better trace the provenance & assess the reliability of what they see & hear, most likely with the help of new technology.
+- Current auto-regressive LLMs are famously uncontrollable, but new AI systems will be controllable, factual & non toxic when desired.",[],[],[],[],https://twitter.com/ylecun/status/1629467508720779265,
+1629467448226324480,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,23,19,125,False,2023-02-25T13:04:48+00:00,"- People will learn to better trace the provenance & assess the reliability of what they see & hear, most likely with the help of new technology.
+- Current auto-regressive LLMs are famously uncontrollable, but new AI systems will be controllable, factual & non toxic when desired.",[],[],[],[],https://twitter.com/ylecun/status/1629467448226324480,
+1629463972578459648,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,6,7,104,True,2023-02-25T12:50:59+00:00,Applies to all domains.,[],[],[],[],https://twitter.com/ylecun/status/1629463972578459648,
+1629243179068268548,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,63,78,725,False,2023-02-24T22:13:38+00:00,"Generated by LLaMA.
+(prompt in bold).
+
+See appendix of the LLaMA paper: https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf…",[],[],['https://pbs.twimg.com/media/Fpw7s4jX0AU1l4O?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1629243179068268548,
+1629240399750479876,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,25,10,318,False,2023-02-24T22:02:35+00:00,"Your guess is indeed blind and hence wrong.
+Particularly on the whole ""Meta has no people competent to do the tricky stuff...""
+Regardless, the difference between LLaMA and ChatGPT is fine tuning through human feedback
+It's expensive & time consuming, but not particularly tricky.",[],[],[],[],https://twitter.com/ylecun/status/1629240399750479876,
+1629238298290921475,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,29,False,2023-02-24T21:54:14+00:00,"That's false.
+Linux is under the GPL and everyone ""touches"" it.",[],[],[],[],https://twitter.com/ylecun/status/1629238298290921475,
+1629237366693953539,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,1,7,False,2023-02-24T21:50:32+00:00,"Here it is: 
+[and this is merely the first laugh]",[],[],[],[],https://twitter.com/ylecun/status/1629237366693953539,
+1629217432383414272,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,6,13,88,False,2023-02-24T20:31:19+00:00,Blog post:,[],[],[],[],https://twitter.com/ylecun/status/1629217432383414272,https://t.co/zDA9h0VbHF
+1629215240087822337,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,8,5,54,False,2023-02-24T20:22:37+00:00,"The code is licensed under the GPLv3, which permits commercial use.",[],[],[],[],https://twitter.com/ylecun/status/1629215240087822337,
+1629214720405143552,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,7,False,2023-02-24T20:20:33+00:00,GPLv3 permits commercial use.,[],[],[],[],https://twitter.com/ylecun/status/1629214720405143552,
+1629214560077901825,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,0,15,False,2023-02-24T20:19:55+00:00,GPLv3 permits commercial use.,[],[],[],[],https://twitter.com/ylecun/status/1629214560077901825,
+1629193616097673218,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,7,19,124,True,2023-02-24T18:56:41+00:00,Annoucement from the LLaMA's mouth.,[],[],"['https://pbs.twimg.com/media/FpvTWxDX0AUOi-m?format=jpg&name=small', 'https://pbs.twimg.com/media/FpvTXeJXwAAGmDU?format=png&name=small', 'https://pbs.twimg.com/media/FpvTaD1XgAAp9hI?format=png&name=small', 'https://pbs.twimg.com/media/FpvTcVtWYAEx6CD?format=png&name=small']",[],https://twitter.com/ylecun/status/1629193616097673218,
+1629192792751603712,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,10,101,False,2023-02-24T18:53:25+00:00,,[],[],['https://pbs.twimg.com/media/FpwONgEXwAIpuqZ?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1629192792751603712,
+1629191889453740033,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,7,69,False,2023-02-24T18:49:50+00:00,Some results from the paper.,[],[],['https://pbs.twimg.com/media/FpwNY8TXsAUkctX?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1629191889453740033,
+1629190574963060736,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,6,25,219,False,2023-02-24T18:44:36+00:00,"LLaMA is a collection of foundation LLMs from 7B to 65B parameters.
+They have been trained on trillions of tokens from publicly available datasets
+- LLaMA-13B outperforms GPT-3 (175B) on most benchmarks
+- LLaMA-65B is competitive with the best models, Chinchilla70B and PaLM-540B",[],[],[],[],https://twitter.com/ylecun/status/1629190574963060736,
+1629189925089296386,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,92,546,2458,False,2023-02-24T18:42:01+00:00,"LLaMA is a new *open-source*, high-performance large language model from Meta AI - FAIR.
+
+Meta is committed to open research and releases all the models the research community under a GPL v3 license.
+
+- Paper: https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/…
+- Github: https://github.com/facebookresearch/llama…",[],[],[],[],https://twitter.com/ylecun/status/1629189925089296386,https://t.co/c2CJwpRcSL
+1629024269626646529,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,9,False,2023-02-24T07:43:46+00:00,Because it's harder to produce stuff that works than stuff that doesn't.,[],[],[],[],https://twitter.com/ylecun/status/1629024269626646529,
+1628961824736411648,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,5,False,2023-02-24T03:35:38+00:00,"I prefer the Lisp version:
+(want 'People 'Python)",[],[],[],[],https://twitter.com/ylecun/status/1628961824736411648,
+1628960967529754624,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,7,6,24,False,2023-02-24T03:32:13+00:00,Hehe,[],[],[],[],https://twitter.com/ylecun/status/1628960967529754624,
+1628948032883490817,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,5,False,2023-02-24T02:40:50+00:00,"Not too late.
+One of my PhD students started her PhD in her late 20s after an undergrad degree in philosophy.
+She now runs a big chunk of DeepMind.",[],[],[],[],https://twitter.com/ylecun/status/1628948032883490817,
+1628946357347053568,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,10,6,44,False,2023-02-24T02:34:10+00:00,"Well, but there is a better way than RLHF-tuned auto-regressive LLMs....",[],[],[],[],https://twitter.com/ylecun/status/1628946357347053568,
+1628898906611367936,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,22,158,False,2023-02-23T23:25:37+00:00,"Yes. I think RLHF is hopeless because the space of wrong answers is very large, and the space of tricky questions has a very long tail.",[],[],[],[],https://twitter.com/ylecun/status/1628898906611367936,
+1628858799510458368,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,25,False,2023-02-23T20:46:15+00:00,Happens all the time ,[],[],[],[],https://twitter.com/ylecun/status/1628858799510458368,
+1628748195844042753,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,1,4,False,2023-02-23T13:26:45+00:00,"Actually, the first implementations of neural nets on GPUs are from Patrice Simard's group at Microsoft around 2005-2006.
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=Kumar+Chellapilla%2C+Sidd+Puri%2C+and+Patrice+Simard.+%E2%80%9CHigh+performance+convolutional+neural+networks+for+document+processing.%E2%80%9D+In+International+Workshop+on+Frontiers+in+Handwriting+Recognition%2C+2006.&btnG=…",[],[],[],[],https://twitter.com/ylecun/status/1628748195844042753,
+1628746102827630593,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,1,34,False,2023-02-23T13:18:26+00:00,"They are available, but my web server has a configuration issue.
+The password only shows up with https on Chrome, for some reason.
+If you use http (no s) or another browser, there is no issue.",[],[],[],[],https://twitter.com/ylecun/status/1628746102827630593,
+1628745606612107265,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,4,2,28,False,2023-02-23T13:16:27+00:00,"Errrrr, Lisp was my main programming language from 1987 to 2010.
+It was a home-grown Lisp interpreter/compiler that Léon Bottou and I wrote as a front-end to our neural net simuator SN, later open-sourced as Lush.
+Not sure what your point/joke is about.
+https://lush.sourceforge.net",[],[],[],[],https://twitter.com/ylecun/status/1628745606612107265,
+1628485855324110851,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,18,15,155,False,2023-02-22T20:04:18+00:00,"If using Lisp as a front-end language to a deep learning system is ""neuro-symbolic"" then, I've doing neuro-symbolic stuff since 1987 
+https://lush.sourceforge.net",[],[],[],[],https://twitter.com/ylecun/status/1628485855324110851,
+1628390623664300034,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,25,False,2023-02-22T13:45:53+00:00,Might have been a good idea.,[],[],[],[],https://twitter.com/ylecun/status/1628390623664300034,
+1628390522892025860,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,52,145,1344,True,2023-02-22T13:45:29+00:00,"Even hotter take: the fact that ML and Computer Vision researchers were largely using Matlab *held back progress for years*, mostly because implementing something like a ConvNet in 2005 Matlab would have been a total nightmare.",[],[],[],[],https://twitter.com/ylecun/status/1628390522892025860,
+1628389205477928962,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,1,15,False,2023-02-22T13:40:15+00:00,"I certainly didn't forget about Lisp.
+My main Deep Learning framework used a Lisp front-end until about 2010.
+https://lush.sourceforge.net
+
+Then we switched to Torch7, which used Lua as a front-end.",[],[],[],[],https://twitter.com/ylecun/status/1628389205477928962,
+1628388087830020096,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,36,21,443,False,2023-02-22T13:35:48+00:00,"We used Lua initially and started implementing a compiler for it.
+But engineers hated it.
+There were 3 other reasons to switch to Python:
+1. People want Python
+2. People want Python
+3. People want Python",[],[],[],[],https://twitter.com/ylecun/status/1628388087830020096,
+1628387348944748545,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,1,31,False,2023-02-22T13:32:52+00:00,We actually thought about JavaScript when we were trying to figure out what DL platform to use in the early days of FAIR.,[],[],[],[],https://twitter.com/ylecun/status/1628387348944748545,
+1628387086024814592,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,48,False,2023-02-22T13:31:49+00:00,Touché,[],[],[],[],https://twitter.com/ylecun/status/1628387086024814592,
+1628387024045588480,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,4,26,373,False,2023-02-22T13:31:35+00:00,Never. I positively hate Matlab. I managed to never use it.,[],[],[],[],https://twitter.com/ylecun/status/1628387024045588480,
+1628386056641847296,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,356,621,3592,True,2023-02-22T13:27:44+00:00,"Hotter take: ML would have advanced faster if another front-end language had been available and widely adopted instead of Python.
+One that is interactive yet fast & compilable, multithreaded (no GIL), isn't bloated, doesn't care about white spaces,...
+E.g. Julia or some Lisp.",[],[],[],[],https://twitter.com/ylecun/status/1628386056641847296,
+1628383670921732098,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,24,145,True,2023-02-22T13:18:15+00:00,"Learning to verify AI-generated code.
+From 
+@MetaAI",[],['MetaAI'],['https://pbs.twimg.com/media/Fpcpxn7WYAILNpV?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1628383670921732098,
+1627951774962266112,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,2,False,2023-02-21T08:42:03+00:00,"Looks interesting.
+But I haven't written anything with it.",[],[],[],[],https://twitter.com/ylecun/status/1627951774962266112,
+1627949023146524672,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,1,3,False,2023-02-21T08:31:07+00:00,Cool!,[],[],[],[],https://twitter.com/ylecun/status/1627949023146524672,
+1627946046583197696,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,2,False,2023-02-21T08:19:17+00:00,"No.
+Meta released the *control* of PyTorch to the Linux Foundation.
+That's a Good Thing.
+Meta certainly didn't ""give up"" PyTorch, still being by far the largest contributor to it and a major user of it for research, development, and production.",[],[],[],[],https://twitter.com/ylecun/status/1627946046583197696,
+1627943956968361984,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,40,46,297,True,2023-02-21T08:10:59+00:00,Is it really surprising that a chatbot trained on human dialogues that are subject to Godwin's Law will itself abide by Godwin's Law and compare its interlocutor to Hitler when the conversation heats up?,[],[],"['https://pbs.twimg.com/media/FpTWe-IacAAjZm6?format=png&name=small', 'https://pbs.twimg.com/media/FpTWfdFacAAlrix?format=jpg&name=small', 'https://pbs.twimg.com/media/FpTWgB2aUAA9_Mh?format=png&name=small', 'https://pbs.twimg.com/media/FpTWgnVaAAsymUh?format=png&name=900x900']",[],https://twitter.com/ylecun/status/1627943956968361984,
+1627754819606745139,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,3,False,2023-02-20T19:39:25+00:00,"ML is a set of methods for data science, among others.
+Others include statistics, various fields of applied math, signal processing, computer vision, NLP, visualization, data management, DL, AI (broadly speaking), etc....
+And then there is how you apply this to various fields.",[],[],[],[],https://twitter.com/ylecun/status/1627754819606745139,
+1627752766692069411,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-20T19:31:16+00:00,"Way earlier.
+Synertec VIM-1 / SYM-1",[],[],[],[],https://twitter.com/ylecun/status/1627752766692069411,https://t.co/ujlcAC4HpO
+1627751866040782851,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,2,False,2023-02-20T19:27:41+00:00,"Data Science = deriving knowledge from data with the help of computers, statistics, and mathematics.",[],[],[],[],https://twitter.com/ylecun/status/1627751866040782851,
+1627716756549644288,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,2,52,False,2023-02-20T17:08:10+00:00,"Clearly, there are generative models that are not used to ""generate"" anything complicated.
+For example, any classifier that uses Bayes rule P(y|x) = P(x|y)P(y) / P(x).
+The P(x|y) model is generative.",[],[],[],[],https://twitter.com/ylecun/status/1627716756549644288,
+1627715079612268553,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,8,88,False,2023-02-20T17:01:31+00:00,"The NYU Center for Data Science was announced 10 years ago today.
+
+In 10 years, NYU CDS has grown tremendously and now essentially operates as a department, with PhD & Masters degree programs, as well as undergraduate majors and minors in Data Science.",[],[],[],[],https://twitter.com/ylecun/status/1627715079612268553,https://t.co/7prLJJuEEf
+1627686883521175553,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,9,1,121,False,2023-02-20T15:09:28+00:00,"OK, I lied. #1 was not assembly but 6502 hexadecimal machine code.",['1'],[],[],[],https://twitter.com/ylecun/status/1627686883521175553,
+1627685369842962433,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,7,False,2023-02-20T15:03:27+00:00,"No. If the model doesn't produce *observed* variables, it's not generative.
+Embeddings are hidden.",[],[],[],[],https://twitter.com/ylecun/status/1627685369842962433,
+1627685035082977280,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,10,False,2023-02-20T15:02:07+00:00,"You could.
+In that case, ""generative"" would not just characterize the architecture but the combination of the architecture and the inference procedure.
+It's like a graphical model / factor graphs: you infer the unknown variables by finding the value that maximizes the likelihood.",[],[],[],[],https://twitter.com/ylecun/status/1627685035082977280,
+1627681520872718339,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,4,False,2023-02-20T14:48:10+00:00,"Caffe was written at UC Berkeley in C++, inspired from Lush (our DL framework with Lisp front-end).
+Caffe2 was written in C++ to run neural nets in production at FB.
+But most people at FAIR were using Torch (with the Lua front-end).
+Eventually, we all standardized on PyTorch.",[],[],[],[],https://twitter.com/ylecun/status/1627681520872718339,
+1627676468246446080,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-20T14:28:05+00:00,"No, thank you.",[],[],[],[],https://twitter.com/ylecun/status/1627676468246446080,
+1627676407554777088,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-20T14:27:50+00:00,Good point.,[],[],[],[],https://twitter.com/ylecun/status/1627676407554777088,
+1627675117420412928,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,1,2,False,2023-02-20T14:22:43+00:00,"Our hippocampus can store a lot more than 4096 tokens, though.",[],[],[],[],https://twitter.com/ylecun/status/1627675117420412928,
+1627670942712475648,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,1,12,False,2023-02-20T14:06:08+00:00,"It has already happened with cartoons.
+Try getting any of the original Tex Avery cartoons from the 40s and 50s.",[],[],[],[],https://twitter.com/ylecun/status/1627670942712475648,
+1627670485570813952,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,5,125,False,2023-02-20T14:04:19+00:00,"Joint Embedding Architectures (e.g. Siamese nets) are non generative.
+They can capture dependencies between x and y but cannot ""generate"" y from x, and certainly cannot provide an estimate p(y|x).
+Almost all successful SSL methods in image recognition use JEA or JEPA.",[],[],[],[],https://twitter.com/ylecun/status/1627670485570813952,
+1627531559623434243,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,11,False,2023-02-20T04:52:16+00:00,"We were using a Lisp interpreter/compiler that we wrote as an interactive front-end language to our neural net simulator.
+https://lush.sourceforge.net",[],[],[],[],https://twitter.com/ylecun/status/1627531559623434243,
+1627530698448936960,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,17,False,2023-02-20T04:48:51+00:00,Never had any use for it.,[],[],[],[],https://twitter.com/ylecun/status/1627530698448936960,
+1627529743984693248,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,1,90,False,2023-02-20T04:45:03+00:00,There was nothing else I could afford in 1977.,[],[],[],[],https://twitter.com/ylecun/status/1627529743984693248,
+1627529047772131328,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,1,5,False,2023-02-20T04:42:17+00:00,"No, not really.",[],[],[],[],https://twitter.com/ylecun/status/1627529047772131328,
+1627528825243414529,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,2,False,2023-02-20T04:41:24+00:00,Nope.,[],[],[],[],https://twitter.com/ylecun/status/1627528825243414529,
+1627528768431525888,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,4,False,2023-02-20T04:41:11+00:00,"I don't think it's worth storing in the genome.
+Any unsupervised learning procedure can learn V1-style oriented edge detectors within minutes.",[],[],[],[],https://twitter.com/ylecun/status/1627528768431525888,
+1627528267103195136,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,9,False,2023-02-20T04:39:11+00:00,"Oh yeah, I taught myself to design CMOS digital circuits in high school, before programming.",[],[],[],[],https://twitter.com/ylecun/status/1627528267103195136,
+1627525453060743169,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,12,2,82,False,2023-02-20T04:28:00+00:00,"Oh, I forgot Prolog, somewhere between Pascal and Forth.",[],[],[],[],https://twitter.com/ylecun/status/1627525453060743169,
+1627524942546849792,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,20,10,137,False,2023-02-20T04:25:58+00:00,My favorite: Lisp.,[],[],[],[],https://twitter.com/ylecun/status/1627524942546849792,
+1627523932520603648,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,30,False,2023-02-20T04:21:58+00:00,"During the DjVu project, in the late 1990s, we had scanned, compressed, & OCRed collections of books, such as the NIPS proceedings.
+We wanted to distribute that on CDROM and provide search capabilities.
+I wrote a complete search engine in JavaScript so it could run in a browser.",[],[],[],[],https://twitter.com/ylecun/status/1627523932520603648,
+1627521952201035776,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,0,7,False,2023-02-20T04:14:05+00:00,"Oh, I don't have a crypto bro circle, thankfully.
+Just random people making comments on my tweets.",[],[],[],[],https://twitter.com/ylecun/status/1627521952201035776,
+1627519878511951874,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,119,125,626,True,2023-02-20T04:05:51+00:00,"1. Assembly
+2. Basic
+3. Fortran
+4. Pascal
+5. Forth
+6. C
+7. Lisp
+8. C++
+9. Javascript
+10. Lua
+11. Python",[],[],[],[],https://twitter.com/ylecun/status/1627519878511951874,
+1627517386231365633,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,17,13,90,False,2023-02-20T03:55:57+00:00,"LLMs in their current form are stateless.
+Their ""state"" is entirely determined by the prompt, hence immaterial.",[],[],[],[],https://twitter.com/ylecun/status/1627517386231365633,
+1627435291395891200,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,18,18,200,True,2023-02-19T22:29:44+00:00,"Govt: I can assure you, we have top men working on it.
+Scientists: who?
+Govt: top .... men.",[],[],[],[],https://twitter.com/ylecun/status/1627435291395891200,
+1627434417068163072,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,1,30,False,2023-02-19T22:26:15+00:00,"You are most welcome, Tom.
+There is self-interest in this openness: a rising tide of AI progress lifts all boats.",[],[],[],[],https://twitter.com/ylecun/status/1627434417068163072,
+1627433919887863808,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,5,34,False,2023-02-19T22:24:17+00:00,And our widely advertised openness caused Google to open up a bit more.,[],[],[],[],https://twitter.com/ylecun/status/1627433919887863808,
+1627408661722157059,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,19,False,2023-02-19T20:43:55+00:00,"Indeed. Although transformers arcitectures pre-trained with self-supervised learning have been *massively* deployed by both Meta & Google for many applications, such as translation & content moderation, filtering, & ranking.
+The transition from research to product was very fast.",[],[],[],[],https://twitter.com/ylecun/status/1627408661722157059,
+1627407555826708484,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,13,37,215,True,2023-02-19T20:39:31+00:00,"Much of the world realized the existence and the potential impact of generative AI in the last few months with ChatGPT and StableDiffusion.
+But the AI R&D community has been at it for several years.
+And venture investment for at least 2 years.",[],[],['https://pbs.twimg.com/media/FpWwtViXsAEPjaG?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1627407555826708484,
+1627398478614724610,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-19T20:03:27+00:00,"I have a monochrome full frame (ASI6200MM), but that requires a filter wheel, which is not really usable with a RASA scope (the camera is in front of the window).
+I also have a color full frame (ASI6200MC) but it's defective. I get no red channel ",[],[],[],[],https://twitter.com/ylecun/status/1627398478614724610,
+1627396254023012355,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,4,4,80,False,2023-02-19T19:54:37+00:00,"I said it's not particularly innovative in terms of the underlying science and technology and that other shops had similar tech in-house (Google & Meta).
+I also said that chatGPT makes sh*t up and can be used as a writing assistant (text and code) but not much else atm.",[],[],[],[],https://twitter.com/ylecun/status/1627396254023012355,
+1627395510188314624,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,41,False,2023-02-19T19:51:39+00:00,One gets exposed to a lot of different opinions on Twitter.,[],[],[],[],https://twitter.com/ylecun/status/1627395510188314624,
+1627394914785845256,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,2,15,False,2023-02-19T19:49:17+00:00,"FAIR receives headcount, operating budget, & computing investment.
+It's a bad idea to link research funding to revenue impact for 2 reasons:
+(1) the impact is indirect, often months or years after the research
+(2) it gives an incentive to work on incremental short-term projects.",[],[],[],[],https://twitter.com/ylecun/status/1627394914785845256,
+1627384513679486978,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,1,25,False,2023-02-19T19:07:58+00:00,"For FAIR, the value comes from projects with product groups to create new products and services or improve existing ones.
+This pays for research several times over.",[],[],[],[],https://twitter.com/ylecun/status/1627384513679486978,
+1627383015268548613,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,101,311,2557,False,2023-02-19T19:02:00+00:00,"Crypto bro: AI labs should stop publishing useless papers and make products that increase shareholder value.
+Me: There would be no new product without the research published in those papers. New products aren't pulled out of thin air, unlike cryptocurrency value.",[],[],[],[],https://twitter.com/ylecun/status/1627383015268548613,
+1627375395841445888,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,3,False,2023-02-19T18:31:44+00:00,"Lots of light pollution, hence the use of a narrow-band filter.
+No dome.",[],[],['https://pbs.twimg.com/media/FpWZTDSWAAA1JqH?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1627375395841445888,
+1627358978198962177,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-19T17:26:29+00:00,"Les pires sont:
+- les cassandres promettant l'apocalypse,
+- les illuminés promettant monts et merveilles
+- ceux qui critiquent, deblatèrent sur des limitations que tout le monde connait, et prétendent avoir ""la solution"" alors qu'ils n'ont absolument jamais rien contribué.",[],[],[],[],https://twitter.com/ylecun/status/1627358978198962177,
+1627341590023774210,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,2,False,2023-02-19T16:17:24+00:00,"Pas besoin d'aller en Chine.
+L'entreprise française Haffner Energy transforme les huiles usées en hydrogène et biofuel.",[],[],[],[],https://twitter.com/ylecun/status/1627341590023774210,https://t.co/fHAt4VBAVc
+1627334539050622979,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,11,3,142,False,2023-02-19T15:49:23+00:00,Just use WhatsApp ,[],[],[],[],https://twitter.com/ylecun/status/1627334539050622979,
+1627332611780517894,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,3,False,2023-02-19T15:41:43+00:00,"Don't worry. I'm not afraid.
+I'm merely quoting HAL9000 from ""2001: A Space Odyssey"" being afraid of ""dying"" as his memory modules are slowly being disconnected one by one.",[],[],[],[],https://twitter.com/ylecun/status/1627332611780517894,
+1627326532753494021,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,0,False,2023-02-19T15:17:34+00:00,Un script PyTorch fait maison qui utilise des bibliothèques classiques pour aligner les photos.,[],[],[],[],https://twitter.com/ylecun/status/1627326532753494021,
+1627326186261995526,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,3,False,2023-02-19T15:16:11+00:00,"Light pollution is horrible in my NJ suburb.
+So I use a narrowband filter that only lets through 4 wavelengths that many nebulae emit (ionized hydrogen alpha & beta, oxygen III, and sulfur II).
+This was shot with a quad-band filter and a color camera.",[],[],[],[],https://twitter.com/ylecun/status/1627326186261995526,https://t.co/eLWoZzqtGl
+1627323833391742976,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-19T15:06:50+00:00,"Nice!
+My picture was shot with a narrowband filter to reduce the effects of light pollution (which is pretty awful in my NJ suburb).
+So it's more tenuous than yours.",[],[],[],[],https://twitter.com/ylecun/status/1627323833391742976,
+1627323103440240646,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,0,False,2023-02-19T15:03:56+00:00,"Wikipedia 
+Seriously, measuring such distances is pretty hard.",[],[],[],[],https://twitter.com/ylecun/status/1627323103440240646,https://t.co/PQJuW9b4IC
+1627322559187365889,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,7,False,2023-02-19T15:01:46+00:00,"1. Select the good shots.
+2. Align the shots and average them.
+3. Manually correct the colors in the resulting image.
+#1 is done with a custom Python script.
+#2 is done automatically by a custom PyTorch script.
+#3 is done manually in Gimp.
+It takes maybe 20 minutes overall.","['1', '2', '3']",[],[],[],https://twitter.com/ylecun/status/1627322559187365889,
+1627320497619836932,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,13,84,False,2023-02-19T14:53:35+00:00,"From 
+@Marktechpost
+: a description of our latest work on Image Understanding Through Contextual Phrase Detection, by a team from NYU consisting of 
+@ashkamath20
+, Sara Price, Jonas Pfeiffer, me, and 
+@alcinos26
+.",[],"['Marktechpost', 'ashkamath20', 'alcinos26']",[],[],https://twitter.com/ylecun/status/1627320497619836932,https://t.co/HdARCI49aB
+1627159605393457152,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,20,17,562,False,2023-02-19T04:14:15+00:00,"Eastern Veil nebula / NGC 6992
+2400 light-years away.
+Shot in June 2021 in my NJ backyard.
+Scope: Celestron RASA 11"", F2.2
+Camera: ZWO ASI2600MC
+Filter: Radian Triad quad narrow band.
+Exposures: 65 shots, 300 seconds each.",[],[],['https://pbs.twimg.com/media/FpTVCZ4XoAAYI_n?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1627159605393457152,
+1627153549061722112,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,11,False,2023-02-19T03:50:11+00:00,"For that demo, I wrote a ""compiler"" that took the Lisp data structure for the ConvNet and produced a standalone C code  that could be compiled for the DSP32C board.
+The weights and the network topology were hardcoded as literals in the C program (no file system on the DSP board).",[],[],[],[],https://twitter.com/ylecun/status/1627153549061722112,
+1627152278053433349,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,3,False,2023-02-19T03:45:08+00:00,"I should say, the SunOS version had bits in assembly to make convolutions go fast.",[],[],[],[],https://twitter.com/ylecun/status/1627152278053433349,
+1627151998389723136,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,5,False,2023-02-19T03:44:02+00:00,"In C, using Emacs and gcc.
+The GNU tools had been ported to AmigaOS.",[],[],[],[],https://twitter.com/ylecun/status/1627151998389723136,
+1627151621028290560,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,2,False,2023-02-19T03:42:32+00:00,3.5,[],[],[],[],https://twitter.com/ylecun/status/1627151621028290560,
+1627078600989241346,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,2,False,2023-02-18T22:52:22+00:00,"Yes, but slowly.
+No one uses transformers for segmentation. It's too inefficient.
+And it's impractical for video.",[],[],[],[],https://twitter.com/ylecun/status/1627078600989241346,
+1627077761578958849,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,10,7,119,False,2023-02-18T22:49:02+00:00,"Léon Bottou and I developed our neural net simulator SN on our Amiga 1000s with 512KB of RAM and no hard drive. Just floppies (in 1987).
+That's what I used to train the first ConvNets, after porting it to SunOS.",[],[],[],[],https://twitter.com/ylecun/status/1627077761578958849,
+1627064118254645254,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,1,12,False,2023-02-18T21:54:49+00:00,I'm a ..... fraaaaid.,[],[],[],[],https://twitter.com/ylecun/status/1627064118254645254,
+1626983152643104770,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,3,25,False,2023-02-18T16:33:06+00:00,"Regarding weight sharing, or lack thereof in biology: you don't need weight sharing if the training is essentially self-supervised.
+Repeated feature detectors will naturally emerge from self-supervised learning because the local statistics of images are essentially stationary.",[],[],[],[],https://twitter.com/ylecun/status/1626983152643104770,
+1626982651037995009,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,2,27,False,2023-02-18T16:31:06+00:00,"This combination of a ConvNet front-end and transformer back-end is akin to the DETR architecture, which is my favorite one for vision.
+https://arxiv.org/abs/2005.12872
+...",[],[],[],[],https://twitter.com/ylecun/status/1626982651037995009,https://t.co/mm8jeS99uK
+1626982140524089344,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,8,63,False,2023-02-18T16:29:04+00:00,"Well, at best, ConvNets would be a good model of the *foveal* portion of the ventral pathway until V4 or PIT.
+After that, the representation is more object based than retinotopic. So a transformer (which is equivariant to permutations) would seem more appropriate.
+...",[],[],[],[],https://twitter.com/ylecun/status/1626982140524089344,
+1626959104307593218,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,13,False,2023-02-18T14:57:32+00:00,You got this exactly backward.,[],[],[],[],https://twitter.com/ylecun/status/1626959104307593218,
+1626958611220946945,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,2,14,False,2023-02-18T14:55:35+00:00,Source: https://economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up…,[],[],['https://pbs.twimg.com/media/FpQePD5X0AkWeUn?format=jpg&name=small'],[],https://twitter.com/ylecun/status/1626958611220946945,
+1626955466885537797,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,9,False,2023-02-18T14:43:05+00:00,"Whisper is a deep learning architecture that uses transformer blocks, like many DL systems these days, including LLMs.
+It's not technically an LLM, even if the decoder module generates tokens one by one auto-regressively, like a language model does.",[],[],[],[],https://twitter.com/ylecun/status/1626955466885537797,
+1626952882871275522,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,5,False,2023-02-18T14:32:49+00:00,"In fact, it helps them.",[],[],[],[],https://twitter.com/ylecun/status/1626952882871275522,
+1626952666545811459,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,6,29,False,2023-02-18T14:31:57+00:00,"Sadly, many ""investors"" share your opinion.
+Their focus on short-term profits blinds them to the mechanisms of innovation.
+This is why successful tech companies like Google and Meta have structured themselves to minimize pressure from Wall Street short-termism.",[],[],[],[],https://twitter.com/ylecun/status/1626952666545811459,
+1626948851948027906,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-18T14:16:48+00:00,"Running these things requires a lot of computation.
+It's not cheap.
+They can only run a deficit for so long.",[],[],[],[],https://twitter.com/ylecun/status/1626948851948027906,
+1626948398887714817,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,0,False,2023-02-18T14:15:00+00:00,"The metric to optimize is a combination of several criteria: user satisfaction, user well-being, impact on society, and yes revenue.
+It's always a trade-off. For example, you can show more ads to get more revenue in the short term, but you risk turning people away in the long run",[],[],[],[],https://twitter.com/ylecun/status/1626948398887714817,
+1626947148922204161,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,1,False,2023-02-18T14:10:02+00:00,"The positive impact of AI?
+Connecting people with each other & with relevant content.
+Giving them a voice.
+Lowering language barriers.
+Giving access to information to people can't read or can't see.
+Helping people be creative.
+Connecting small businesses with potential customers.",[],[],[],[],https://twitter.com/ylecun/status/1626947148922204161,
+1626943268108832770,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-18T13:54:36+00:00,"This was a late-1986 Amiga 1000 with 512KB of RAM and no hard drive (just floppies), using Emacs and gcc.",[],[],[],[],https://twitter.com/ylecun/status/1626943268108832770,
+1626942134619078657,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,4,False,2023-02-18T13:50:06+00:00,YMMV,[],[],[],[],https://twitter.com/ylecun/status/1626942134619078657,
+1626712374966358016,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,11,24,90,False,2023-02-17T22:37:07+00:00,"LLMs have a very superficial understanding of the physical world.
+An article by 
+@Kantrowitz
+ that draws on my session with him on his podcast.",[],['Kantrowitz'],[],[],https://twitter.com/ylecun/status/1626712374966358016,https://t.co/5Y03gLdkGD
+1626697586521395216,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-17T21:38:21+00:00,Because the company that owned it lost its market position and started losing money.,[],[],[],[],https://twitter.com/ylecun/status/1626697586521395216,
+1626694317942231057,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,2,45,False,2023-02-17T21:25:22+00:00,"You are wrong. 
+Many companies can take advantage of new research because of their position on the market.
+The fact that other companies can use the research too does not hurt them one bit.",[],[],[],[],https://twitter.com/ylecun/status/1626694317942231057,
+1626666109913948170,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,9,False,2023-02-17T19:33:17+00:00,"Exactly.
+Microsoft also uses PyTorch.",[],[],[],[],https://twitter.com/ylecun/status/1626666109913948170,
+1626655637726760982,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,42,False,2023-02-17T18:51:40+00:00,"This further confirms that you *really* have no idea what you're talking about.
+FAIR has had one of the largest returns on investment of any initiative at Meta.",[],[],[],[],https://twitter.com/ylecun/status/1626655637726760982,
+1626623560188821507,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,4,8,339,False,2023-02-17T16:44:12+00:00,"You clearly have *zero* understanding of how science and technology progress.
+Without those papers that you call ""endless drivel"" and ""inconsequential"", there would be none of the ""actual usable products"" you say you want.",[],[],[],[],https://twitter.com/ylecun/status/1626623560188821507,
+1626622481141272578,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,4,3,58,False,2023-02-17T16:39:55+00:00,"You can't sustain a significant research effort in a non-profit or a startup, which is why DeepMind sold itself to Google, OpenAI got money from Microsoft, and Anthropic got money from Google.",[],[],[],[],https://twitter.com/ylecun/status/1626622481141272578,
+1626621614803517455,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,4,62,False,2023-02-17T16:36:28+00:00,"You can easily do that within a corporate research lab because your research can pay for itself several times over through product impact.
+This is the model used by Meta with FAIR.
+It is similar to the model used by Bell Labs, IBM Research, Xerox PARC, and MSR in the old days.",[],[],[],[],https://twitter.com/ylecun/status/1626621614803517455,
+1626620679557611526,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,9,12,183,False,2023-02-17T16:32:45+00:00,"It's not necessarily about greed.
+If you want to have a large and positive impact, you need human and material resources.
+To attract the best scientists and engineers, you need to pay them well.
+To pay for computational resources, you need revenue or investment.",[],[],[],[],https://twitter.com/ylecun/status/1626620679557611526,
+1626614514379522048,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,145,234,1644,False,2023-02-17T16:08:15+00:00,"FAIR played a key role in making the AI R&D scene open. 
+Others followed. At least for a while.
+
+Now, OpenAI, DeepMind, & perhaps even Google are clearly publishing & open-sourcing considerably less.
+
+What will be the consequences on the progress of AI science and technology?",[],[],[],[],https://twitter.com/ylecun/status/1626614514379522048,
+1626611854050045953,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,2,False,2023-02-17T15:57:41+00:00,Haha,[],[],[],[],https://twitter.com/ylecun/status/1626611854050045953,
+1626606485080838146,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,5,False,2023-02-17T15:36:21+00:00,"It was called SN at the time (1987-1988).
+Then, there was another version of SN that had a tensor engine and a Lisp-to-C compiler, circa 1995.
+Then, the system was open-sourced as Lush in 2002.",[],[],[],[],https://twitter.com/ylecun/status/1626606485080838146,
+1626605621670813698,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,12,False,2023-02-17T15:32:55+00:00,"That's the ""incredible"" part.",[],[],[],[],https://twitter.com/ylecun/status/1626605621670813698,
+1626605058132529160,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,18,False,2023-02-17T15:30:41+00:00,"Backprop and reasoning are orthogonal concepts.
+You don't do reasoning instead of backprop.
+You use backprop to train a system that can reason.",[],[],[],[],https://twitter.com/ylecun/status/1626605058132529160,
+1626603412035973120,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,2,13,False,2023-02-17T15:24:08+00:00,"Writing assistance is as useful and limited as driving assistance.
+And all for the same reasons.",[],[],[],[],https://twitter.com/ylecun/status/1626603412035973120,
+1626601700696940544,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,0,59,False,2023-02-17T15:17:20+00:00,"Yes, that horse.
+The same horse who, in 2015, claimed that AGI was just around the corner and needed to be regulated.",[],[],[],[],https://twitter.com/ylecun/status/1626601700696940544,
+1626596185464246272,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,22,19,305,True,2023-02-17T14:55:25+00:00,"Yes.
+The first time coding was in 1985, in FORTRAN on a PR1ME mini computer.
+2nd version in Pascal.
+3rd version in C on an Amiga.
+4th version in Lisp and C on a Sun workstation.
+So many times that I can't remember.",[],[],[],[],https://twitter.com/ylecun/status/1626596185464246272,
+1626594715721437187,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,55,127,838,True,2023-02-17T14:49:35+00:00,"Experts have known for years that current (auto-regressive) LLMs are
+- incredible
+- create bullshit
+- can be useful
+- are actually stupid
+- aren't actually scary",[],[],[],[],https://twitter.com/ylecun/status/1626594715721437187,
+1626593254069395456,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,9,61,264,True,2023-02-17T14:43:47+00:00,"A broad survey of published methods to ""augment"" Language Models so they can reason, plan, and use tools to elaborate their answers.
+Tools such as search engines, calculators, code interpreters, database queries, etc, can help LLMs produce factual answers.
+By 
+@MetaAI
+ - FAIR.",[],['MetaAI'],['https://pbs.twimg.com/media/FpDXVRqWcAYjwpn?format=png&name=900x900'],[],https://twitter.com/ylecun/status/1626593254069395456,
+1626591210348642305,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,21,42,506,True,2023-02-17T14:35:39+00:00,From the horse's mouth.,[],[],[],[],https://twitter.com/ylecun/status/1626591210348642305,
+1626590110660849668,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,14,22,152,True,2023-02-17T14:31:17+00:00,"Is RLHF sufficient for aligning LLMs with human values?
+My answer: no.",[],[],[],[],https://twitter.com/ylecun/status/1626590110660849668,
+1626589893014229001,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,11,False,2023-02-17T14:30:25+00:00,My short answer: no.,[],[],[],[],https://twitter.com/ylecun/status/1626589893014229001,
+1626576899932667904,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,27,False,2023-02-17T13:38:47+00:00,"IIRC Mark Raibert was at CMU at the time. Not MIT.
+You can recognize the brick pattern of the walls of the old CMU CS building.",[],[],[],[],https://twitter.com/ylecun/status/1626576899932667904,
+1626313379089465346,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,8,58,True,2023-02-16T20:11:39+00:00,"Exciting times to be involved in AI, as a founder, as an investor (like AIX Ventures), and as a scientist.",[],[],[],[],https://twitter.com/ylecun/status/1626313379089465346,
+1626291516044988419,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,2,26,False,2023-02-16T18:44:47+00:00,Pretty accurate.,[],[],[],[],https://twitter.com/ylecun/status/1626291516044988419,
+1626290287642390530,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,2,False,2023-02-16T18:39:54+00:00,"At least, Galactica never insulted anyone ",[],[],[],[],https://twitter.com/ylecun/status/1626290287642390530,
+1626235017226784772,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,7,54,False,2023-02-16T15:00:16+00:00,"More than a dataset, GenAug is a method for generating augmentations to new scenarios of existing robot behavior data.",[],[],[],[],https://twitter.com/ylecun/status/1626235017226784772,
+1626201891485937664,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,11,31,142,True,2023-02-16T12:48:38+00:00,"New robotics dataset from 
+@MetaAI
+ - FAIR.",[],['MetaAI'],['https://pbs.twimg.com/ext_tw_video_thumb/1626022415393333249/pu/img/Hj99sr7AngsSgVRu.jpg'],['blob:https://twitter.com/9f57a76a-4473-4e78-8060-cb5c36ce42e9'],https://twitter.com/ylecun/status/1626201891485937664,
+1625876432021749760,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,27,6,100,False,2023-02-15T15:15:23+00:00,"My answer: no!
+Obviously.",[],[],[],[],https://twitter.com/ylecun/status/1625876432021749760,
+1625854951636471809,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,13,False,2023-02-15T13:50:02+00:00,"Indeed, two separate patents.
+The 1st one was for ConvNets with strided convolutions.
+The 2nd one was for ConvNets with separate pooling/subsampling layers.
+In 1996, AT&T spun off NCR and Lucent & assigned the patents to NCR, which was commercializing the check reading systems.",[],[],[],[],https://twitter.com/ylecun/status/1625854951636471809,
+1625698166556225536,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,14,False,2023-02-15T03:27:01+00:00,"Not good enough, not soon enough.",[],[],[],[],https://twitter.com/ylecun/status/1625698166556225536,
+1625671012678336514,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,2,13,False,2023-02-15T01:39:07+00:00,"The space of possible answers is too large for this to have any hope of working.
+This is essentially what people use today and call RLHF.",[],[],[],[],https://twitter.com/ylecun/status/1625671012678336514,
+1625670569160069120,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,1,5,False,2023-02-15T01:37:21+00:00,"Expectedly, my answer is hell no!",[],[],[],[],https://twitter.com/ylecun/status/1625670569160069120,
+1625670388347817986,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,3,False,2023-02-15T01:36:38+00:00,That's like throwing the baby with the bath water.,[],[],[],[],https://twitter.com/ylecun/status/1625670388347817986,
+1625670210295328769,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,6,False,2023-02-15T01:35:56+00:00,"No, not even then.",[],[],[],[],https://twitter.com/ylecun/status/1625670210295328769,
+1625670022797434881,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-15T01:35:11+00:00,You are not wrong.,[],[],[],[],https://twitter.com/ylecun/status/1625670022797434881,
+1625669779301228544,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-15T01:34:13+00:00,Yes,[],[],[],[],https://twitter.com/ylecun/status/1625669779301228544,
+1625664197961871363,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,8,32,156,False,2023-02-15T01:12:02+00:00,"Excellent paper in which the word ""criti-hype"" is coined.
+Criti-hype designates the kind of academic and non-academic work that magnifies the imagined dangers of a new technology, feeding on and mirroring the hype from the advocates of said technology.",[],[],[],[],https://twitter.com/ylecun/status/1625664197961871363,https://t.co/aE85ZQNBYU
+1625651330588049409,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,72,53,277,True,2023-02-15T00:20:55+00:00,Will Auto-Regressive LLMs ever be reliably factual?,[],[],[],[],https://twitter.com/ylecun/status/1625651330588049409,
+1625631035072315394,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,1,7,False,2023-02-14T23:00:16+00:00,"Shouldn't that be ""learned control"" or ""control learning"" or even ""learning to control""?
+LTC has a ring to it, no?",[],[],[],[],https://twitter.com/ylecun/status/1625631035072315394,
+1625554772098002944,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,62,160,869,True,2023-02-14T17:57:13+00:00,"The big challenge for AI dialog systems over the next year or so is to make them factual, non-toxic, up to date, and capable of using tools like calculators,  databases, search engines, simulators, or in this case, a simple calendar with today's date.",[],[],"['https://pbs.twimg.com/media/Fo22H-uWYAAsFnh?format=jpg&name=small', 'https://pbs.twimg.com/media/Fo22I0yXgAAQ-Rk?format=jpg&name=small', 'https://pbs.twimg.com/media/Fo22KMcXwAA7Acf?format=jpg&name=small', 'https://pbs.twimg.com/media/Fo22LVJXEAA0zoo?format=jpg&name=small']",[],https://twitter.com/ylecun/status/1625554772098002944,
+1625553586687037441,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,4,6,59,True,2023-02-14T17:52:31+00:00,"Fantastic talk on the reaction of media and the public to technological (r)evolutions, particularly AI, particularly generative AI.
+Oscillating between hype and criti-hype and the inevitable moral panics.
+@DrTechlash
+ is my favorite person on the Interwebz today.",[],['DrTechlash'],[],[],https://twitter.com/ylecun/status/1625553586687037441,
+1625547855090925579,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,6,False,2023-02-14T17:29:44+00:00,"I like the word ""criti-hype"" and your analysis of that phenomenon.",[],[],[],[],https://twitter.com/ylecun/status/1625547855090925579,
+1625543887317090320,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,6,33,True,2023-02-14T17:13:58+00:00,"Une interview de la directrice de 
+@MetaAI
+ - FAIR (Fundamental AI Research).
+Les LLMs sont utiles, mais limités.
+Et leurs capacités ne sont pas surprenantes pour les chercheurs du domaine.",[],['MetaAI'],[],[],https://twitter.com/ylecun/status/1625543887317090320,
+1625542439544012810,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,6,42,True,2023-02-14T17:08:13+00:00,Tomorrow!,[],[],['https://pbs.twimg.com/media/Fo4Bs2KWcBkv7me?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1625542439544012810,
+1625470174244528128,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-14T12:21:03+00:00,"Whenever exploration is necessary, some RL results are useful.
+Whenever the objective is unknown, it must be evaluated through actions (one way to do so is to train what has come to be known as a ""reward model"").",[],[],[],[],https://twitter.com/ylecun/status/1625470174244528128,
+1625459670377693186,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,1,6,False,2023-02-14T11:39:19+00:00,"I do not conflate RL with policy gradient.
+But I *do* complain when people conflate RL with black-box optimization.
+I also find strange that people use RL in situations where optimal control is applicable i..e. where you can construct or learn a model & a differentiable objective",[],[],[],[],https://twitter.com/ylecun/status/1625459670377693186,
+1625316885788037120,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,1,6,True,2023-02-14T02:11:57+00:00,"My position has been clear & unchanged.
+I have defended LLMs as writing aids. I still do.
+I have also said that LLMs are making stuff up.
+I said that this will not destroy society.
+I have also said that LLMs don't take us any closer to human-level AI.",[],[],[],[],https://twitter.com/ylecun/status/1625316885788037120,
+1625217186921848832,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,2,False,2023-02-13T19:35:47+00:00,Because the space of possible wrong answers is gigantic.,[],[],[],[],https://twitter.com/ylecun/status/1625217186921848832,
+1625216838308179969,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,3,False,2023-02-13T19:34:23+00:00,Good luck running a good LLM on anything smaller than a *big* GPU!,[],[],[],[],https://twitter.com/ylecun/status/1625216838308179969,
+1625216196441153548,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,14,False,2023-02-13T19:31:50+00:00,"I made no statement about the impact of LLM on society, other than to say that LLMs will not destroy society because they make stuff up.
+I sure hope I'm not underestimating *that*!",[],[],[],[],https://twitter.com/ylecun/status/1625216196441153548,
+1625215610970832902,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,4,False,2023-02-13T19:29:31+00:00,"Transformer architectures trained with some sort of Self-Supervised Learning are probably part of the solution.
+But the special instance of it that we call (auto-regressive) LLMs are not.",[],[],[],[],https://twitter.com/ylecun/status/1625215610970832902,
+1625214580925296640,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,3,False,2023-02-13T19:25:25+00:00,"But they merely slow your descent.
+They don't make you fly.",[],[],[],[],https://twitter.com/ylecun/status/1625214580925296640,
+1625159506270507008,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,5,55,False,2023-02-13T15:46:34+00:00,"Yes, several months ago, as in May 2022, when I published this 60-page vision of a path towards Human-Level AI.",[],[],[],[],https://twitter.com/ylecun/status/1625159506270507008,https://t.co/7ZgRtLJoMw
+1625153101228556289,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,53,50,475,False,2023-02-13T15:21:07+00:00,"Scaling up auto-regressive LLMs will make them ascend to human-level AI as much scaling up parachutes will make them climb to the stratosphere.
+
+How's that for a corny metaphor?",[],[],[],[],https://twitter.com/ylecun/status/1625153101228556289,
+1625152030187884544,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,11,4,99,False,2023-02-13T15:16:52+00:00,RLHF is even more inefficient on trolls than it is on auto-regressive LLMs.,[],[],[],[],https://twitter.com/ylecun/status/1625152030187884544,
+1625151178811252738,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,2,13,False,2023-02-13T15:13:29+00:00,"Humanity has lived with ""beliefs of made-up nonsense"" delivered with ""authoritative bluster"" for millennia.
+It's called religion.",[],[],[],[],https://twitter.com/ylecun/status/1625151178811252738,
+1625143462088826880,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,9,6,61,False,2023-02-13T14:42:49+00:00,"Whatever ""reasoning"" an LLM built around a 50-stage transformer can do, it has to do it within 50 computational steps.
+Reasoning generally involves a variable and potentially very large number of steps.",[],[],[],[],https://twitter.com/ylecun/status/1625143462088826880,
+1625141099554824193,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,2,False,2023-02-13T14:33:26+00:00,YMMV,[],[],[],[],https://twitter.com/ylecun/status/1625141099554824193,
+1625137552377233409,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,1,3,False,2023-02-13T14:19:20+00:00,[hint: they are wrong],[],[],[],[],https://twitter.com/ylecun/status/1625137552377233409,
+1625132782509867009,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,4,False,2023-02-13T14:00:23+00:00,"Non-n00bs say ""RLHF will fix this"", and lots of people with lots of money seem to believe them.",[],[],[],[],https://twitter.com/ylecun/status/1625132782509867009,
+1625132409116057602,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,11,False,2023-02-13T13:58:54+00:00,You got yourself an idea for a startup.,[],[],[],[],https://twitter.com/ylecun/status/1625132409116057602,
+1625132135257460737,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,25,34,280,False,2023-02-13T13:57:49+00:00,"14. Unlike what the most acerbic critics of Galactica have claimed
+- LLMs *are* being used as writing aids.
+- They *will not* destroy the fabric of society by causing the mindless masses to believe their made-up nonsense.
+- People will use them for what they are helpful with.",[],[],[],[],https://twitter.com/ylecun/status/1625132135257460737,
+1625127902890151943,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,18,91,610,False,2023-02-13T13:41:00+00:00,"13. Why do LLMs appear much better at generating code than generating general text?
+Because, unlike the real world, the universe that a program manipulates (the state of the variables) is limited, discrete, deterministic, and fully observable.
+The real world is none of that.",[],[],[],[],https://twitter.com/ylecun/status/1625127902890151943,
+1625127019007692802,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,4,8,80,False,2023-02-13T13:37:29+00:00,"Code generation is easier because, unlike the real world, the underlying reality of code is simple, discrete, deterministic and fully observable.
+And there is a relatively small number of basic concepts that cover most of it.",[],[],[],[],https://twitter.com/ylecun/status/1625127019007692802,
+1625126486582890496,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,15,False,2023-02-13T13:35:22+00:00,Absolutely not.,[],[],[],[],https://twitter.com/ylecun/status/1625126486582890496,
+1625126386506797057,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,9,16,284,False,2023-02-13T13:34:58+00:00,"It saves a lot typing and may improve your style.
+Also relieves you from the fear of the white page.
+Not mentioning that it's a big help for non-native speakers and people who find writing painful.
+
+BUT your hands must remain on the keyboard at all times.",[],[],[],[],https://twitter.com/ylecun/status/1625126386506797057,
+1625123494261403650,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,6,22,225,False,2023-02-13T13:23:29+00:00,"12. Being clear that better system will be appearing, but they will be based on different principles. 
+They will not be auto-regressive LLMs.",[],[],[],[],https://twitter.com/ylecun/status/1625123494261403650,
+1625123045261344769,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,7,35,303,False,2023-02-13T13:21:41+00:00,"I have been consistent while:
+9. defending Galactica as a scientific writing aid.
+10. Warning folks that AR-LLMs make stuff up and should not be used to get factual advice.
+11. Warning that only a small superficial portion of human knowledge can ever be captured by LLMs.",[],[],[],[],https://twitter.com/ylecun/status/1625123045261344769,
+1625121742955122689,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,4,2,64,False,2023-02-13T13:16:31+00:00,"As a Frenchman, in whose country cheese and mustard are revered with quasi religious fervor, this is neither mustard nor cheese.",[],[],[],[],https://twitter.com/ylecun/status/1625121742955122689,
+1625118945920397316,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,14,55,473,False,2023-02-13T13:05:24+00:00,"6. Current LLMs should be used as writing aids, not much more.
+7. Marrying them with tools such as search engines is highly non trivial.
+8. There *will* be better systems that are factual, non toxic, and controllable. They just won't be auto-regressive LLMs.",[],[],[],[],https://twitter.com/ylecun/status/1625118945920397316,
+1625118108082995203,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,112,687,3449,False,2023-02-13T13:02:04+00:00,"My unwavering opinion on current (auto-regressive) LLMs
+1. They are useful as writing aids.
+2. They are ""reactive"" & don't plan nor reason.
+3. They make stuff up or retrieve stuff approximately.
+4. That can be mitigated but not fixed by human feedback.
+5. Better systems will come",[],[],[],[],https://twitter.com/ylecun/status/1625118108082995203,
+1624898875927527425,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,97,258,1231,False,2023-02-12T22:30:55+00:00,"Good article on LLMs at Forbes.
+
+The media are starting to agree with my much-criticized statements about LLMs.
+
+""LLMs as they exist today will never replace Google Search. Why not? In short, because today’s LLMs make stuff up.""",[],[],[],[],https://twitter.com/ylecun/status/1624898875927527425,https://t.co/Cngp2Zyisq
+1624892366300618752,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,8,False,2023-02-12T22:05:03+00:00,"I'm used to being vilified for my positions.
+It's often temporary.",[],[],[],[],https://twitter.com/ylecun/status/1624892366300618752,
+1624891704221237248,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,3,False,2023-02-12T22:02:25+00:00,No way in hell.,[],[],[],[],https://twitter.com/ylecun/status/1624891704221237248,
+1624891101868851200,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,2,False,2023-02-12T22:00:02+00:00,"If you want the system to start from scratch and learn the world model while attempting to solve the problem, then you are in RL-land.
+But if you can learn the model in other ways, e.g. by observing other agents, then no need for RL.",[],[],[],[],https://twitter.com/ylecun/status/1624891101868851200,
+1624890607331057666,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,5,False,2023-02-12T21:58:04+00:00,"If your world model is accurate, i.e. if it knows the map, and knows you need a key to open a door, then it's just planning. 
+In this case it is particularly simple because the state graph is small and the actions discrete.
+You could just use A* or something.",[],[],[],[],https://twitter.com/ylecun/status/1624890607331057666,
+1624888175071043587,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,8,False,2023-02-12T21:48:24+00:00,"Dude, you may not realize that the ""RL"" in ""RLHF"" has very little to do with RL and a lot to do with the age-old idea of Learning-to-Rank.",[],[],[],[],https://twitter.com/ylecun/status/1624888175071043587,
+1624885649865162752,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,28,60,526,True,2023-02-12T21:38:22+00:00,"Depressing?
+Writing assistance is the one thing auto-regressive LLMs are useful for.
+Let's use them for that and enjoy it.",[],[],[],[],https://twitter.com/ylecun/status/1624885649865162752,
+1624884942663450626,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,10,12,66,True,2023-02-12T21:35:33+00:00,LLMs really can't plan.,[],[],"['https://pbs.twimg.com/media/Foy573zaYAAm5S_?format=jpg&name=900x900', 'https://pbs.twimg.com/media/Foy5-f0aYAA9PPE?format=jpg&name=900x900', 'https://pbs.twimg.com/media/Foy6zo6aUAANnhg?format=jpg&name=900x900', 'https://pbs.twimg.com/media/Foy7T_MaQAAbrNT?format=jpg&name=medium']",[],https://twitter.com/ylecun/status/1624884942663450626,
+1624843632804089856,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-12T18:51:24+00:00,"No.
+Token-by-token auto-regressive LLM don't do any planning.",[],[],[],[],https://twitter.com/ylecun/status/1624843632804089856,
+1624842372742799365,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,3,False,2023-02-12T18:46:24+00:00,"At Meta, RL also means Reality Labs.
+Hash collisions.",[],[],[],[],https://twitter.com/ylecun/status/1624842372742799365,
+1624842229947801601,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,6,32,False,2023-02-12T18:45:50+00:00,The main purpose of RL research should be to minimize the use of RL.,[],[],[],[],https://twitter.com/ylecun/status/1624842229947801601,
+1624842066860683266,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,1,22,False,2023-02-12T18:45:11+00:00,"If you need to do planning, just do planning.
+No need for RL.
+That's optimal control if the state and/or action space is continuous.
+You only need RL for 2 things:
+(1) if your objective function is unknown
+(2) if your model of the world needs to be learned by taking actions.",[],[],[],[],https://twitter.com/ylecun/status/1624842066860683266,
+1624824355761815560,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,12,9,95,True,2023-02-12T17:34:48+00:00,Even I haven't been that harsh against RL.,[],[],[],[],https://twitter.com/ylecun/status/1624824355761815560,
+1624730044366041088,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,1,16,False,2023-02-12T11:20:03+00:00,I use Idagio.,[],[],[],[],https://twitter.com/ylecun/status/1624730044366041088,
+1624728514510438400,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,2,False,2023-02-12T11:13:58+00:00,"Perhaps.
+But the point remains.",[],[],[],[],https://twitter.com/ylecun/status/1624728514510438400,
+1624722923662475265,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,7,10,90,True,2023-02-12T10:51:45+00:00,Planification & learning is where AI is at.,[],[],[],[],https://twitter.com/ylecun/status/1624722923662475265,
+1624719208201289730,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,2,False,2023-02-12T10:36:59+00:00,That's a ridiculous oversimplification of what I said.,[],[],[],[],https://twitter.com/ylecun/status/1624719208201289730,
+1624717784071430148,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,2,False,2023-02-12T10:31:20+00:00,Nice.,[],[],[],[],https://twitter.com/ylecun/status/1624717784071430148,
+1624715568807833601,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,12,32,217,True,2023-02-12T10:22:32+00:00,Haha!,[],[],['https://pbs.twimg.com/ext_tw_video_thumb/1624351775859027969/pu/img/bnydl278xGiIkdhS.jpg'],['blob:https://twitter.com/a84d7e87-922e-407a-aa23-d34baabe2e7f'],https://twitter.com/ylecun/status/1624715568807833601,
+1624392887344459778,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-11T13:00:18+00:00,https://atcold.github.io/NYU-DLSP21/,[],[],[],[],https://twitter.com/ylecun/status/1624392887344459778,
+1624391784829796354,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,1,False,2023-02-11T12:55:55+00:00,"Actually, language occupies a tiny portion of the cortex: the Broca and Wernicke areas.
+And much of human knowledge, and *all* of animal knowledge, is entirely non linguistic.",[],[],[],[],https://twitter.com/ylecun/status/1624391784829796354,https://t.co/XK6SdxRGjy
+1624388342077964288,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,13,32,157,True,2023-02-11T12:42:15+00:00,"Spontaneous Q&A (in English) about AI and creativity.
+Following my keynote at #WAICF",['WAICF'],[],['https://pbs.twimg.com/ext_tw_video_thumb/1624366730205138944/pu/img/3YwERaWT6uHrXMUY.jpg'],['blob:https://twitter.com/9c37d170-355e-4a96-9bc3-14e369aba274'],https://twitter.com/ylecun/status/1624388342077964288,
+1624387282152062976,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,20,False,2023-02-11T12:38:02+00:00,"You may not realize that without scientific and technological advances such as the ones described in this paper, there would be no products.
+
+Products do not just appear out of thin air.",[],[],[],[],https://twitter.com/ylecun/status/1624387282152062976,
+1624324514019508224,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,13,73,396,True,2023-02-11T08:28:37+00:00,"ToolFormer: an LLM that can use tools:
+Search engines, calculators, etc...
+From 
+@MetaAI
+ - FAIR.",[],['MetaAI'],['https://pbs.twimg.com/tweet_video_thumb/FonQKGrWYAAPN3C.jpg'],['https://video.twimg.com/tweet_video/FonQKGrWYAAPN3C.mp4'],https://twitter.com/ylecun/status/1624324514019508224,
+1624323662508589056,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,19,179,996,True,2023-02-11T08:25:14+00:00,"ToolFormer: LLMs that can teach themselves to use tools, like calculators, database queries, search engines,....
+From 
+@MetaAI
+ - FAIR.",[],['MetaAI'],['https://pbs.twimg.com/media/FokbRtrXoAEjk7c?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1624323662508589056,
+1624322474585325573,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,7,False,2023-02-11T08:20:31+00:00,"Agreed.
+But I don't believe the problems with LLMs are fixable within the current paradigm.
+The fix will require changing the paradigm so much that they will no-longer be LLMs.",[],[],[],[],https://twitter.com/ylecun/status/1624322474585325573,
+1623687224503017472,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,6,9,87,False,2023-02-09T14:16:15+00:00,"Merci 
+@jnbarrot
+ pour cet échange sur les grandes tendances de la recherche en IA, le rôle des partenariats public-privé, et la contribution de FAIR 
+@MetaAI
+ à la recherche ouverte et les logiciels open-source. 
+La France abrite un écosystème fécond qui nourrit les progrès.",[],"['jnbarrot', 'MetaAI']","['https://pbs.twimg.com/media/Foh-6FNWAAIFKtr?format=jpg&name=small', 'https://pbs.twimg.com/media/Foh-67FXwAICuMq?format=jpg&name=900x900']",[],https://twitter.com/ylecun/status/1623687224503017472,
+1623685677245136902,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,6,34,True,2023-02-09T14:10:06+00:00,"Un plaisir d'échanger avec 
+@jnbarrot
+.
+
+Meta-FAIR contribue grandement à l'écosystème de la R&D en IA en France.
+FAIR produit 10 doctorants par an en IA.
+
+Les meilleurs experts français (& européens) en systèmes de dialogue et systèmes d'IA de grande taille sont à FAIR-Paris.",[],['jnbarrot'],"['https://pbs.twimg.com/media/Fog8IFiWAAEb3pJ?format=jpg&name=900x900', 'https://pbs.twimg.com/media/Fog8IFlWYAAgASc?format=jpg&name=900x900']",[],https://twitter.com/ylecun/status/1623685677245136902,
+1623610534846246914,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-09T09:11:31+00:00,"If you detect, segment, and name background surfaces as well as objects, it's called ""panoptic segmentation.""",[],[],[],[],https://twitter.com/ylecun/status/1623610534846246914,
+1623314295172857857,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,0,False,2023-02-08T13:34:22+00:00,"Physical.
+Everything is a collective phenomenon emerging from simple component in interaction.
+This makes it possible to abstract away the details and describe reality at various levels of details and abstraction.",[],[],[],[],https://twitter.com/ylecun/status/1623314295172857857,
+1623313383880552449,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,0,False,2023-02-08T13:30:45+00:00,"There is the name of the function, and the name of the output of that function.",[],[],[],[],https://twitter.com/ylecun/status/1623313383880552449,
+1623312308528185349,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,9,1,137,False,2023-02-08T13:26:28+00:00,Is it named after a common fruit?,[],[],[],[],https://twitter.com/ylecun/status/1623312308528185349,
+1623311991497494529,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,34,2,172,True,2023-02-08T13:25:13+00:00,"Yeah, why?
+Also true of restaurants.",[],[],[],[],https://twitter.com/ylecun/status/1623311991497494529,
+1623245858304102401,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,3,False,2023-02-08T09:02:25+00:00,"Meta, Google, & others have deployed large SSL-pretrained transformers for all these applications for years and for billions of users (content moderation, ranking, translation, etc).
+>> They are not LLMs <<
+It's confusing because the underlying technology is essentially the same.",[],[],[],[],https://twitter.com/ylecun/status/1623245858304102401,
+1623017740150919168,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,0,27,False,2023-02-07T17:55:58+00:00,"I had made that point for Galactica, but that seemed to fall on deaf ears.
+
+As a non-native English speaker myself, writing technical papers in English was literally torture and I wish I had access to something like Galactica when started my career.",[],[],[],[],https://twitter.com/ylecun/status/1623017740150919168,
+1623016542681337857,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,2,1,8,False,2023-02-07T17:51:12+00:00,"No.
+Because a generic chatbots can also be used to help write scientific papers (badly).
+Both are writing assistance devices (predictive keyboards on steroids).
+Both can save time.
+Both can make stuff up and require human supervision.",[],[],[],[],https://twitter.com/ylecun/status/1623016542681337857,
+1623015488141008896,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,5,11,96,True,2023-02-07T17:47:01+00:00,"A single task that subsumes object detection and language understanding.
+From #NYU.",['NYU'],[],['https://pbs.twimg.com/media/FoYSG-_XsA0L1zI?format=jpg&name=medium'],[],https://twitter.com/ylecun/status/1623015488141008896,
+1623014788598231040,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,18,11,76,True,2023-02-07T17:44:14+00:00,More analysis of the varied public reception of AI tools from Big Tech and Small Tech.,[],[],[],[],https://twitter.com/ylecun/status/1623014788598231040,
+1622976593097289729,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,0,2,False,2023-02-07T15:12:27+00:00,"LLM specifically designates models that generate text.
+There are tons of applications of large transformer architectures pre-trained with various forms of Self-Supervised Learning.
+But most of them are not LLMs.
+LLMs are a special case.",[],[],[],[],https://twitter.com/ylecun/status/1622976593097289729,
+1622975744455413760,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,0,False,2023-02-07T15:09:05+00:00,"The manner is often crisp, but also often wrong.",[],[],[],[],https://twitter.com/ylecun/status/1622975744455413760,
+1622975543166525440,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,8,9,155,True,2023-02-07T15:08:17+00:00,"John Bridle, who coined the word ""softmax"", now wishes he had called it ""softargmax"".
+
+He coined the term while working on a paper published in 1989 in Neural Computation in which he describes the ""alphanet"" model that makes a hidden Markov model look like a recurrent neural net.",[],[],[],[],https://twitter.com/ylecun/status/1622975543166525440,
+1622974414852595712,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,1,False,2023-02-07T15:03:48+00:00,"Stuart Geman, his brother.",[],[],[],[],https://twitter.com/ylecun/status/1622974414852595712,
+1622973921166299136,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,14,False,2023-02-07T15:01:50+00:00,That's pretty much what people thought in the 1950s,[],[],[],[],https://twitter.com/ylecun/status/1622973921166299136,
+1622973803725836288,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,0,0,3,False,2023-02-07T15:01:22+00:00,Indeed.,[],[],[],[],https://twitter.com/ylecun/status/1622973803725836288,
+1622973725577469952,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,3,51,False,2023-02-07T15:01:04+00:00,It says more about the inadequacy of the tests than about the adequacy of ChatGPT.,[],[],[],[],https://twitter.com/ylecun/status/1622973725577469952,
+1622973520346066944,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,1,False,2023-02-07T15:00:15+00:00,Yes.,[],[],[],[],https://twitter.com/ylecun/status/1622973520346066944,
+1622973412338434049,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,3,0,13,False,2023-02-07T14:59:49+00:00,But they are wrong.,[],[],[],[],https://twitter.com/ylecun/status/1622973412338434049,
+1622973355740614656,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,9,False,2023-02-07T14:59:36+00:00,I'm not saying that predictive typing is useless!,[],[],[],[],https://twitter.com/ylecun/status/1622973355740614656,
+1622972884074303488,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,35,False,2023-02-07T14:57:43+00:00,"Just like driving assistance for cars.
+It's not fully autonomous but it's still useful.",[],[],[],[],https://twitter.com/ylecun/status/1622972884074303488,
+1622947485063823362,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,11,7,92,False,2023-02-07T13:16:48+00:00,"The exact quote is ""the world is compositional or there is a god"", and I got it from Stuart Geman.",[],[],[],[],https://twitter.com/ylecun/status/1622947485063823362,
+1622946893679546371,ylecun,Yann LeCun,https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_x96.jpg,1,0,3,False,2023-02-07T13:14:27+00:00,The distribution that minimizes the free energy.,[],[],[],[],https://twitter.com/ylecun/status/1622946893679546371,

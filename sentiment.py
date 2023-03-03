@@ -21,3 +21,6 @@ def get_tweet_sentiment(tweet):
         return 'neutral'
     else:
         return 'negative'
+
+x = get_tweet_sentiment("I am happy")
+print(x)

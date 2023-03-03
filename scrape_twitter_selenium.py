@@ -33,11 +33,6 @@ def parse(page_source, tweets: List):
             class_="css-901oao r-1nao33i r-37j5jr r-a023e6 r-16dba41 r-rjixqe r-bcqeeo r-bnwqim r-qvutc0",
         )
 
-        # print('author_tag')
-        # print(author_tag)
-        # print('text_tag')
-        # print(text_tag)
-
         time_tag = article.find("time")
 
         if (

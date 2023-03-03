@@ -20,7 +20,16 @@ class Tweet:
 
 def scrape_replies(target_tweet: str):
     # target_tweet='https://twitter.com/BrianMteleSUR/status/1625111883626823681'
-    driver = webdriver.Chrome()
+    
+    options = webdriver.ChromeOptions()
+    # options.add_argument("--headless")
+    options.add_argument("--disable-extensions")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--no-sandbox")
+    # options.add_experimental_option("prefs",{"download.default_directory":"/databricks/driver"})
+    driver = webdriver.Chrome(chrome_options=options)
+
+    # driver = webdriver.Chrome()
     tweets = []
 
     driver.get(target_tweet)
@@ -28,6 +37,7 @@ def scrape_replies(target_tweet: str):
 
     MAX_SCROLLS=5
     for _ in range(MAX_SCROLLS):
+        time.sleep(.2)
         last = driver.find_elements(By.XPATH, '//div[@data-testid="cellInnerDiv"]')[-1]
         driver.execute_script("arguments[0].scrollIntoView(true)", last)
         time.sleep(.2)
@@ -131,22 +141,32 @@ def scrape_replies(target_tweet: str):
             driver.quit()
         except:
             continue
+    try:
+        outdict = [d.__dict__ for d in tweets]
+        unique_tweets = list({each["text"]: each for each in outdict}.values())
 
-    outdict = [d.__dict__ for d in tweets]
-    unique_tweets = list({each["text"]: each for each in outdict}.values())
+        for d in unique_tweets:
+            d["date"] = d["date"]
+            d["author_id_handle"] = re.sub("[/@]", "", d["author_id_handle"])
+            d["author_name_handle"] = d["author_name_handle"]
+            d["text"] = d["text"]
+            d["replying_to"] = d["replying_to"]
+            # d["replying_to"] = d["replying_to"].replace("@" + d["author_name_handle"], "")
 
-    for d in unique_tweets:
-        d["author_name_handle"] = d["author_name_handle"]
-        d["date"] = d["date"]
-        d["text"] = d["text"]
-        d["author_id_handle"] = re.sub("[/@]", "", d["author_id_handle"])
-        d["replying_to"] = d["replying_to"]
-        # d["replying_to"] = d["replying_to"].replace("@" + d["author_name_handle"], "")
+        # result = (json.dumps(unique_tweets, indent=4, ensure_ascii=False))
+        # print(f"FOUND {len(unique_tweets)} TWEETS")
 
-    result = (json.dumps(unique_tweets, indent=4, ensure_ascii=False))
-    # print(f"FOUND {len(unique_tweets)} TWEETS")
+        output_file = 'alikarimi_ak8' + '.csv'
+        # Example of dataframe construction
+        import pandas as pd
 
-    # output_file = 'result.json'
+        df = pd.DataFrame(tweets, columns=['date', 'author_id_handle', 'author_name_handle', 'text', 'replying_to'])
+        df.drop_duplicates()
+        df.to_csv(output_file, mode='a', index=False, header=False)
 
-    # with open(output_file, "w", encoding="utf-8") as f:
-    #     json.dump(unique_tweets, f, ensure_ascii=False, indent=4)
+        print(df)
+        
+        # with open(output_file, "w", encoding="utf-8") as f:
+        #     json.dump(unique_tweets, f, ensure_ascii=False, indent=4)
+    except:
+        print("no replies")
