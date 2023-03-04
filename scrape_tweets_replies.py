@@ -15,6 +15,6 @@ def read_tweets_url(csv_f):
             scrape_replies(tweet_url)
 
 if __name__ == "__main__":
-    read_tweets_url('./users/alikarimi_ak8.csv')
+    read_tweets_url('./users/cathiedwood.csv')
     # with Pool(noOfPools) as p:
     #     p.map(scrape_replies,['',])
