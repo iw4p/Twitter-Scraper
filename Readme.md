@@ -7,10 +7,10 @@ How to install requirments:
 pip3 install -r requirments.txt
 ```
 
-
 How to run api server:
 
 ```bash
+cd ./src/
 hypercorn main:app --bind 0.0.0.0:80
 ```
 
@@ -38,8 +38,9 @@ The service will be on 0.0.0.0:80 and Swagger on 0.0.0.0:80/docs
 
 #### Deployment
 
-- [ ] Dockerize
-- [ ] Docker Swarm
+- [ ] Designing a good arch for project.
+- [ ] Dockerize.
+- [ ] Docker Swarm.
 
 
 ### Images
