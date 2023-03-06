@@ -1,0 +1,5 @@
+twitter_scraper_selenium
+fastapi
+pandas
+textblob
+hypercorn

@@ -14,7 +14,3 @@ def most_mentioned(username: str):
     df = df[df['id'] != '[empty]']
 
     return json.loads(df.to_json(orient='records'))
-
-# if __name__ == "__main__":
-    # x = most_mentioned('cathiedwood')
-    # print(x)
