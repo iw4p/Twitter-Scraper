@@ -1,7 +1,7 @@
 import pandas as pd
 from textblob import TextBlob
 
-df = pd.read_csv('./replies/testobama.csv')
+df = pd.read_csv('./replies/barackobama.csv')
 df.columns = ['date', 'name', 'id', 'text', 'target']
 
 def sentiment_analysis(df):

@@ -1,7 +1,8 @@
 from fastapi import FastAPI
 from scrape_profile_tweets import scrape_profile_tweets_since_2023
 from scrape_replies import scrape_replies
-from sentiment import get_tweet_sentiment
+# from sentiment import get_tweet_sentiment
+from groupby import most_mentioned
 
 app = FastAPI()
 
@@ -20,7 +21,7 @@ async def tweets(twitter_handle):
 # - /audience/<twitter-handle> : return a json of information about the audience for a user's account.
 @app.get("/audience/{twitter_handle}")
 async def audience(twitter_handle):
-    res = x(twitter_handle)
+    res = most_mentioned(twitter_handle)
     return res
 
 # - /sentiment/<twitter-handle> : return a json about the sentiment information of an account (e.g. thread level, audience level)
@@ -31,10 +32,10 @@ async def sentiment(twitter_handle):
 
 
 # - /textsentiment/<tweet> : return negative or positive
-@app.get("/textsentiment/{tweet}")
-async def text_sentiment(tweet):
-    res = get_tweet_sentiment(tweet)
-    return res
+# @app.get("/textsentiment/{tweet}")
+# async def text_sentiment(tweet):
+#     res = get_tweet_sentiment(tweet)
+#     return res
 
 @app.get("/replies/{twitter_handle}")
 async def replies(twitter_handle):
